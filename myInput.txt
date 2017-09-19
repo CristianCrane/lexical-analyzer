@@ -1,0 +1,32 @@
+test() {
+	x = 20;
+	y = 30;
+
+	if ( ( x + y ) < 50 ) {
+		print (confirmMessage);
+	} else {
+		z = x + y;
+		while ( ( z / 10 ) >= 50 ) {
+			temp = z + abc;
+			Etemp = temp + 2.198E-10;
+			result = ( Etemp - z * if5) ? this : that;
+			if (result == this || z > 500)
+				print(temp);
+			else
+				print(case);
+	}
+	
+	do {
+		switch (teehee) {
+			case 1:
+				return false;
+			case 2:
+				return true;
+			default:
+				woohoo = false;
+				for (i = 0; i < 10; i=i+1)
+					print(!woohoo);
+		}
+	} while (omg >= pickles222*20);
+			
+}
